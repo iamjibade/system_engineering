@@ -1,0 +1,5 @@
+#!/bin/bash
+# Script: 2-bring_me_home
+# Task: Changes the working directory to the user's home directory.
+# This is achieved by using 'cd' without arguments, which defaults to the home directory.
+cd

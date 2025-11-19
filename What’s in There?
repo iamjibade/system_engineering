@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script: 1-listit
+# Task: Displays the contents list of the current directory.
+ls

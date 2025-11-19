@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script: 3-listfiles
+# Task: Displays the current directory contents in a long format.
+ls -l

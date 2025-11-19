@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script: 4-listmorefiles
+# Task: Displays the current directory contents, including hidden files (those starting with a .), in the long format.
+ls -la

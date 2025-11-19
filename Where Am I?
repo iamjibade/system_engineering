@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script: 0-current_working_directory
+# Task: Prints the absolute path name of the current working directory.
+pwd
